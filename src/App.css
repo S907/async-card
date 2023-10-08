@@ -1,0 +1,22 @@
+#root{
+  background-color: #242424 !important;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+.containerTwo{
+  border:1px solid green;
+}
+
+.sec-one{
+  /* border:1px solid yellow; */
+  margin:0 auto;
+  width: 80%;
+  height:400px;
+}
+.section1{
+  /* border:1px solid red; */
+  text-align: center;
+}
+/* .cardcontainer{
+  display: flex;
+} */

@@ -1,0 +1,165 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Product A",
+        "description": "A high-quality electronic product with various features.",
+        "quantity": 10,
+        "value": 25.99,
+        "category": "Electronics"
+      },
+      {
+        "id": "2",
+        "name": "Product B",
+        "description": "Stylish clothing item suitable for all occasions.",
+        "quantity": 5,
+        "value": 49.99,
+        "category": "Clothing"
+      },
+      {
+        "id": "3",
+        "name": "Product C",
+        "description": "Home and garden accessory for your outdoor space.",
+        "quantity": 20,
+        "value": 9.99,
+        "category": "Home & Garden"
+      },
+      {
+        "id": "4",
+        "name": "Product D",
+        "description": "Cutting-edge electronic device with advanced features.",
+        "quantity": 15,
+        "value": 199.99,
+        "category": "Electronics"
+      },
+      {
+        "id": "5",
+        "name": "Product E",
+        "description": "Comfortable and fashionable clothing item.",
+        "quantity": 8,
+        "value": 79.99,
+        "category": "Clothing"
+      },
+      {
+        "id": "6",
+        "name": "Product F",
+        "description": "Home and garden decoration piece for your living space.",
+        "quantity": 12,
+        "value": 15.99,
+        "category": "Home & Garden"
+      },
+      {
+        "id": "7",
+        "name": "Product G",
+        "description": "Premium electronic gadget designed for tech enthusiasts.",
+        "quantity": 7,
+        "value": 129.99,
+        "category": "Electronics"
+      },
+      {
+        "id": "8",
+        "name": "Product H",
+        "description": "Trendy clothing item for a stylish look.",
+        "quantity": 3,
+        "value": 39.99,
+        "category": "Clothing"
+      },
+      {
+        "id": "9",
+        "name": "Product I",
+        "description": "Practical home and garden accessory for everyday use.",
+        "quantity": 25,
+        "value": 7.99,
+        "category": "Home & Garden"
+      },
+      {
+        "id": "10",
+        "name": "Product J",
+        "description": "High-performance electronic device with cutting-edge technology.",
+        "quantity": 18,
+        "value": 149.99,
+        "category": "Electronics"
+      },
+      {
+        "id": "11",
+        "name": "Product K",
+        "description": "Fashionable clothing item for various occasions.",
+        "quantity": 6,
+        "value": 59.99,
+        "category": "Clothing"
+      },
+      {
+        "id": "12",
+        "name": "Product L",
+        "description": "Decorative home and garden piece to enhance your space.",
+        "quantity": 30,
+        "value": 5.99,
+        "category": "Home & Garden"
+      },
+      {
+        "id": "13",
+        "name": "Product M",
+        "description": "Advanced electronic gadget for tech-savvy individuals.",
+        "quantity": 9,
+        "value": 79.99,
+        "category": "Electronics"
+      },
+      {
+        "id": "14",
+        "name": "Product N",
+        "description": "Comfortable and stylish clothing item for everyday wear.",
+        "quantity": 4,
+        "value": 29.99,
+        "category": "Clothing"
+      },
+      {
+        "id": "15",
+        "name": "Product O",
+        "description": "Functional home and garden accessory for outdoor activities.",
+        "quantity": 22,
+        "value": 12.99,
+        "category": "Home & Garden"
+      },
+      {
+        "id": "16",
+        "name": "Product P",
+        "description": "Premium electronic device with top-notch features.",
+        "quantity": 14,
+        "value": 89.99,
+        "category": "Electronics"
+      },
+      {
+        "id": "17",
+        "name": "Product Q",
+        "description": "Stylish clothing item to elevate your wardrobe.",
+        "quantity": 2,
+        "value": 19.99,
+        "category": "Clothing"
+      },
+      {
+        "id": "18",
+        "name": "Product R",
+        "description": "Decorative home and garden accessory for your living space.",
+        "quantity": 16,
+        "value": 9.99,
+        "category": "Home & Garden"
+      },
+      {
+        "id": "19",
+        "name": "Product S",
+        "description": "Cutting-edge electronic device for tech enthusiasts.",
+        "quantity": 11,
+        "value": 119.99,
+        "category": "Electronics"
+      },
+      {
+        "id": "20",
+        "name": "Product T",
+        "description": "Trendy clothing item for a stylish look.",
+        "quantity": 13,
+        "value": 69.99,
+        "category": "Clothing"
+      }
+    ]
+  }
+  
